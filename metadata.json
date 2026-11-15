@@ -1,0 +1,6 @@
+{
+  "name": "Zero Coin Run 3D",
+  "description": "Jogo 3D de corrida infinita em terceira pessoa com 30 mapas, 30 personagens R15 articulados, cronômetro de sobrevivência sem moedas e ranking global via Neon PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
